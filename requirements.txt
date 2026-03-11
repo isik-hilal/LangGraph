@@ -1,0 +1,18 @@
+# Core LLM support
+langchain==0.1.114
+langchain-openai==0.0.3
+
+# LangGraph for building agent nodes and flows
+langgraph==0.0.14
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Type hints for TypedDict
+typing-extensions==4.8.0
+
+# Hugging Face Hub (optional, if you use HuggingFace models instead of OpenAI)
+huggingface-hub==0.17.3
+
+# JSON serialization helpers
+jsonpickle==3.0.1
